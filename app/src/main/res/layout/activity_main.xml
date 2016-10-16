@@ -41,7 +41,6 @@
         android:text="Hitung"
         android:layout_marginBottom="8dp"/>
     <TextView
-        android:text="Hasil"
         android:id="@+id/txt_luas"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
